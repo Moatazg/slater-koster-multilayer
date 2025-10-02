@@ -70,9 +70,3 @@ plt.legend()
 plt.show()
 ```
 
-## Contributing
-
-Pull requests and suggestions for improvements (e.g. adding full Slater–Koster integrals, s/p orbitals, or more efficient k-space integration) are welcome.
-
-## License
-
